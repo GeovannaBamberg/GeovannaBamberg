@@ -23,8 +23,8 @@ Because these are areas that I love
 
 <div>
 <a href="https://github.com/GeovannaBamberg">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannaBamberg&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovannaBamberg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
           
           
