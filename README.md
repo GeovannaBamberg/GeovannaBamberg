@@ -28,7 +28,7 @@ Because these are areas that I love
 </div>
           
           
-![Snake animation](https://github.com/GeovannaBamberg/GeovannaBambergi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GeovannaBamberg/GeovannaBamberg/blob/output/github-contribution-grid-snake.svg)
 
 
           
