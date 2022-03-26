@@ -1,4 +1,4 @@
-# Geovanna-Bamberg
+# Geovanna Bamberg
 
 ## 👋 Hello, peaple! Welcome to my Github profile.
 ### My name is Geovanna Bamberg and my nickname is "Bolinho"! feel free to call me with either of these two names.
